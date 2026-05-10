@@ -1,0 +1,1 @@
+#This is my first project using FastAPI, a modern web framework for building APIs with Python. This project serves as a simple inventory tracking system, allowing users to manage products and their details.
